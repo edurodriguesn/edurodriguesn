@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="left">Social</h3>
+<h2 align="left">Social</h2>
 
 ###
 
