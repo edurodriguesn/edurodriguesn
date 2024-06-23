@@ -79,7 +79,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
   </a>
   <a href="http://lattes.cnpq.br/3772381642880757" target="_blank">
-    <img src="https://www.ige.unicamp.br/geoideias/wp-content/uploads/sites/40/2022/05/9e287-logo-lattes-768x768.png" width="49" height="37" alt="linkedin logo"  />
+    <img src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" width="49" height="37" alt="lattes logo"  />
   </a>
 </div>
 
