@@ -79,7 +79,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
   </a>
   <a href="http://lattes.cnpq.br/3772381642880757" target="_blank">
-    <img src="https://sites.ufpe.br/ceerma/wp-content/uploads/sites/73/2020/09/Lattes-logo.png" width="37" height="37" alt="lattes logo"  />
+    <img src="https://www.unifal-mg.edu.br/ict/wp-content/uploads/sites/171/2021/11/logo-lattes-azul.png" width="37" height="37" alt="lattes logo"  />
   </a>
 </div>
 
