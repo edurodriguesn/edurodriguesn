@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesn&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edurodriguesn&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesn&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -63,6 +63,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">Social</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-rodrigues-55b236160/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/edu_rn02" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
+  </a>
+  <a href="http://lattes.cnpq.br/3772381642880757" target="_blank">
+    <img src="https://www.ige.unicamp.br/geoideias/wp-content/uploads/sites/40/2022/05/9e287-logo-lattes-768x768.png" width="49" height="37" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
