@@ -82,5 +82,5 @@
     <img src="https://www.unifal-mg.edu.br/ict/wp-content/uploads/sites/171/2021/11/logo-lattes-azul.png" width="37" height="37" alt="lattes logo"  />
   </a>
 </div>
-
+ 
 ###
