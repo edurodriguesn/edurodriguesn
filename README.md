@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde os 15 anos<br>📚 Atualmente estou aprendendo PHP, JavaScript e APIs<br>🖥️ Interesse principal em back-end e Data Sciente</p>
+<p align="left">✨ Programando desde os 15 anos<br>📚 Atualmente estou aprendendo PHP, JavaScript e APIs<br>🖥️ Interesse principal em back-end e Data Science</p>
 
 ###
 
